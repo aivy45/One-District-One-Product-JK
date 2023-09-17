@@ -12,7 +12,7 @@
 - Throughout the development I have learnt so many new concepts like HashRouter, formidable library, Lazy Loading, JWT authentication color library, react-helmet library which is mostly used for SEO purpose etc.
 - Overall this development Project
 
-### Hero you can see it live
+### Here you can see it live
 
 - As it is deployed in onrender so it will take lit-bit time to connect with backend part.
 - After opening the link kindly wait atleast 15-20 seconds.
