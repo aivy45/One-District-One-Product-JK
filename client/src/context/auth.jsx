@@ -7,7 +7,6 @@ const AuthProvider = ({ children }) => {
     user: null,
     token: "",
   });
-
   // default axios
   // it is done so when user by mistake cancels the page then also he remains login in the page as token is saved and adding/sending the token in backend part
   axios.defaults.headers.common["Authorization"] = auth?.token;
