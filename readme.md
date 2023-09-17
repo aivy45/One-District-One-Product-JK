@@ -33,7 +33,8 @@
 
 #### Normal User
 
-- The website offers several functionalities to make the ordering process easy and efficient. Users can reset their password, and update their profile.
+- The website offers several functionalities to make the ordering process easy and efficient.
+- Users can reset their password, and update their profile.
 - The website also features an advanced search and filter features. Filter feature is based on category and price.
 - The user can place an order, and can track the status of their order. - - They can also increase the quantity of the product in their cart.
 
